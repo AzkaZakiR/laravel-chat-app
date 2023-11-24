@@ -13,7 +13,7 @@
 
   <!-- Header -->
   <div class="top">
-    <img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">
+    <img src="{{ asset('img/profile_pp.jpg')}}" alt="Avatar" class="gambarutama">
     <div>
       <p>Ross Edlin</p>
       <small>Online</small>

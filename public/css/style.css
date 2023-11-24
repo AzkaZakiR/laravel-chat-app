@@ -14369,5 +14369,8 @@ fieldset:disabled .btn {
     background: url("https://assets.edlin.app/icons/font-awesome/paper-plane/paper-plane-regular.svg")
         center no-repeat;
 }
-
+.gambarutama{
+    width: 200px; /* Adjust to your preferred width */
+    height: 150px;
+}
 /*# sourceMappingURL=style.css.map */
